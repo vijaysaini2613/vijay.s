@@ -1,3 +1,3 @@
 # vijay.s
 This is my first project.
-god - vijay saini
+God - vijay saini
